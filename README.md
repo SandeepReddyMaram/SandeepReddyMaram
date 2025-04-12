@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Data Engineer and ETL Developer!</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/maramsandeep" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:maramsandeep38@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://sandeepreddymaram.dev" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=web" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/maramsandeep" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:maramsandeep38@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://sandeepreddymaram.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=web" alt="Portfolio" /></a>
 </p>
 
 ---
